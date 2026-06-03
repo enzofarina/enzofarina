@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science student with a focus on data science and machine learning. I enjoy turning raw data into meaningful insights and building models that actually solve real problems. Currently looking for internships or entry-level opportunities.
+CS student focused on data science and machine learning.
+I enjoy turning raw data into meaningful insights and building models that solve real problems.
+Currently looking for internships or entry-level opportunities in data and AI.
+
+Languages
+Python · C · C++ · Java · SQL · HTML · CSS · JavaScript
+Data & AI
+scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib · Jupyter
+Web & Frameworks
+React · Node.js · Tailwind CSS
+Databases & Tools
+MySQL · PostgreSQL · Git · Linux · VS Code
+
+
+Open to internships and entry-level roles. Feel free to reach out.
