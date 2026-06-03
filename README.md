@@ -15,7 +15,7 @@ Python · C · C++ · Java · SQL · HTML · CSS · JavaScript
 scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib · Jupyter
 
 **Web & Frameworks**
-React · Node.js · Tailwind CSS
+React · Node.js · Tailwind CSS · Flask
 
 **Databases & Tools**
 MySQL · PostgreSQL · Git · Linux · VS Code
