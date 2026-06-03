@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-CS student focused on data science and machine learning.
-I enjoy turning raw data into meaningful insights and building models that solve real problems.
+I'm a Computer Science student based in Brazil, focused on data science and machine learning.
+
+I mostly work with Python and data-related stuff — Pandas, NumPy, scikit-learn, and some deep learning with TensorFlow when the problem calls for it.
+
+I also have a background in systems programming with C and C++, as well as Java and many object-oriented programming concepts.
 
 ---
 
@@ -19,4 +22,4 @@ MySQL · PostgreSQL · Git · Linux · VS Code
 
 ---
 
-Currently looking for internships or entry-level opportunities. Feel free to reach out.
+This is where I document what I'm learning and building. Currently looking for internships or entry-level opportunities.
